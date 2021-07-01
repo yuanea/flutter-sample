@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa19ca2c-c9f5-40e3-a57a-c11fb71dae21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/toolsample/lib/home/home_content.dart" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/lib/home/home_content.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/lib/home/route.dart" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/lib/home/route.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/toolsample" />
+  </component>
+  <component name="ProjectId" id="1uhFCjYQH9Vbd5B9AqwPdtEZWpp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/toolsample/lib/expandable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/toolsample/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa19ca2c-c9f5-40e3-a57a-c11fb71dae21" name="Default Changelist" comment="" />
+      <created>1625109788589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625109788589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625109879101">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state x="451" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625109879101" />
+    <state x="724" y="291" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1625109877380">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state x="724" y="291" key="#com.intellij.ide.util.TreeFileChooserDialog/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625109877380" />
+    <state width="1295" height="293" key="GridCell.Tab.0.bottom" timestamp="1625111576993">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1295" height="293" key="GridCell.Tab.0.bottom/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576993" />
+    <state width="1295" height="293" key="GridCell.Tab.0.center" timestamp="1625111576993">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1295" height="293" key="GridCell.Tab.0.center/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576993" />
+    <state width="1295" height="293" key="GridCell.Tab.0.left" timestamp="1625111576992">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1295" height="293" key="GridCell.Tab.0.left/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576992" />
+    <state width="1295" height="293" key="GridCell.Tab.0.right" timestamp="1625111576993">
+      <screen x="0" y="25" width="1680" height="948" />
+    </state>
+    <state width="1295" height="293" key="GridCell.Tab.0.right/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576993" />
+  </component>
+</project>
