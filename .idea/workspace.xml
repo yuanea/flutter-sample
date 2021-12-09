@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fa19ca2c-c9f5-40e3-a57a-c11fb71dae21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/toolsample/lib/home/home_content.dart" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/lib/home/home_content.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_sample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/lib/expandable/expandable.dart" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/lib/expandable/expandable.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/lib/home/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/lib/home/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/lib/home/home_content.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/toolsample/lib/home/route.dart" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/lib/home/route.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolsample/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/toolsample/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/toolsample/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/toolsample/pubspec.yaml" afterDir="false" />
     </list>
@@ -12,6 +42,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/chenzhiyuan/.android/avd/Pixel_4_API_30.avd]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -21,6 +52,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/toolsample" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1uhFCjYQH9Vbd5B9AqwPdtEZWpp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,15 +83,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/toolsample/lib/fish_redux" />
       <recent name="$PROJECT_DIR$/toolsample/lib/expandable" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="additionalArgs" value="--no-sound-null-safety" />
       <option name="filePath" value="$PROJECT_DIR$/toolsample/lib/main.dart" />
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,30 +108,16 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="451" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625109879101">
-      <screen x="0" y="25" width="1680" height="948" />
-    </state>
-    <state x="451" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625109879101" />
-    <state x="724" y="291" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1625109877380">
-      <screen x="0" y="25" width="1680" height="948" />
-    </state>
-    <state x="724" y="291" key="#com.intellij.ide.util.TreeFileChooserDialog/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625109877380" />
-    <state width="1295" height="293" key="GridCell.Tab.0.bottom" timestamp="1625111576993">
-      <screen x="0" y="25" width="1680" height="948" />
-    </state>
-    <state width="1295" height="293" key="GridCell.Tab.0.bottom/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576993" />
-    <state width="1295" height="293" key="GridCell.Tab.0.center" timestamp="1625111576993">
-      <screen x="0" y="25" width="1680" height="948" />
-    </state>
-    <state width="1295" height="293" key="GridCell.Tab.0.center/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576993" />
-    <state width="1295" height="293" key="GridCell.Tab.0.left" timestamp="1625111576992">
-      <screen x="0" y="25" width="1680" height="948" />
-    </state>
-    <state width="1295" height="293" key="GridCell.Tab.0.left/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576992" />
-    <state width="1295" height="293" key="GridCell.Tab.0.right" timestamp="1625111576993">
-      <screen x="0" y="25" width="1680" height="948" />
-    </state>
-    <state width="1295" height="293" key="GridCell.Tab.0.right/1680.25.1600.875/0.25.1680.948@0.25.1680.948" timestamp="1625111576993" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
